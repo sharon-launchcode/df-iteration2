@@ -1,0 +1,118 @@
+[
+  {
+    "id": "64230646-3e95-4000-ad27-9e26a74408b6",
+    "data": [
+      {
+        "text": "Pess care",
+        "alias": "FloridaFosterCare",
+        "meta": "@FloridaFosterCare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527087295
+  },
+  {
+    "id": "aa755314-875e-403a-add0-f62c2b75dbc5",
+    "data": [
+      {
+        "text": "PESS",
+        "alias": "PESS",
+        "meta": "@FloridaFosterCare",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "florida",
+        "alias": "Florida",
+        "meta": "@Florida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527087295
+  },
+  {
+    "id": "f3e01f3e-5093-4829-852d-19791a30a07a",
+    "data": [
+      {
+        "text": "information on ",
+        "userDefined": false
+      },
+      {
+        "text": "PESS",
+        "alias": "Florida",
+        "meta": "@Florida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527087295
+  },
+  {
+    "id": "c9962bbd-1938-48c3-a786-916b4ad821f1",
+    "data": [
+      {
+        "text": "please help with ",
+        "userDefined": false
+      },
+      {
+        "text": "pess",
+        "alias": "Florida",
+        "meta": "@Florida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527087295
+  },
+  {
+    "id": "6e8f391a-2660-4659-a0be-2dbfadaca783",
+    "data": [
+      {
+        "text": "PESS",
+        "alias": "Florida",
+        "meta": "@Florida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527087295
+  },
+  {
+    "id": "7f0e0713-f348-4451-8d04-a9a73f8154d7",
+    "data": [
+      {
+        "text": "I need help with ",
+        "userDefined": false
+      },
+      {
+        "text": "PESS",
+        "alias": "Florida",
+        "meta": "@Florida",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "foster care",
+        "alias": "FloridaFosterCare",
+        "meta": "@FloridaFosterCare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527087295
+  }
+]

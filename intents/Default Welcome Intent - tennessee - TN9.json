@@ -1,0 +1,154 @@
+{
+  "id": "6bac0c33-413a-470e-906d-551dc61bfc07",
+  "name": "Default Welcome Intent - tennessee - TN9",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b9ddf056-aa73-466a-b701-ad4bf3aecd3e",
+          "dataType": "@TennesseeLSC",
+          "name": "Bledsoe",
+          "value": "$Bledsoe",
+          "isList": false
+        },
+        {
+          "id": "3d65bd20-d1a3-4fa2-b4b5-408108c580fd",
+          "dataType": "@TennesseeLSC",
+          "name": "Blount",
+          "value": "$Blount"
+        },
+        {
+          "id": "97607ca7-6daa-4685-8032-055ecf46424e",
+          "dataType": "@TennesseeLSC",
+          "name": "Bradley",
+          "value": "$Bradley"
+        },
+        {
+          "id": "7b3a84c4-982c-449f-aac7-ef0ae3c304d6",
+          "dataType": "@TennesseeLSC",
+          "name": "Unicoi",
+          "value": "$Unicoi"
+        },
+        {
+          "id": "ae6bd47b-1d09-4b76-8506-aa08588baf26",
+          "dataType": "@TennesseeLSC",
+          "name": "Washington",
+          "value": "$Washington"
+        },
+        {
+          "id": "7be170b0-633c-46c5-b84d-9dfb5a7f3771",
+          "dataType": "@TennesseeLSC",
+          "name": "Sullivan",
+          "value": "$Sullivan"
+        },
+        {
+          "id": "7276dbad-c73c-441c-a1e9-7124827866e5",
+          "dataType": "@TennesseeLSC",
+          "name": "Sevier",
+          "value": "$Sevier"
+        },
+        {
+          "id": "4712756a-c910-4012-bf4e-4e1de49d6bbc",
+          "dataType": "@TennesseeLSC",
+          "name": "Sequatchie",
+          "value": "$Sequatchie"
+        },
+        {
+          "id": "3353cb11-0f82-467f-baf8-b8901906f514",
+          "dataType": "@TennesseeLSC",
+          "name": "Rhea",
+          "value": "$Rhea"
+        },
+        {
+          "id": "ee9fc78c-fed6-400b-9351-ce0bf280559f",
+          "dataType": "@TennesseeLSC",
+          "name": "Polk",
+          "value": "$Polk"
+        },
+        {
+          "id": "c232914f-4581-436a-ac34-2453e9a616c1",
+          "dataType": "@TennesseeLSC",
+          "name": "Monroe",
+          "value": "$Monroe"
+        },
+        {
+          "id": "9ca7b9e0-da64-40cd-ac58-b1c281191a8a",
+          "dataType": "@TennesseeLSC",
+          "name": "Meigs",
+          "value": "$Meigs"
+        },
+        {
+          "id": "b1bae113-93a8-496d-91f3-fbefbebc37de",
+          "dataType": "@TennesseeLSC",
+          "name": "Marion",
+          "value": "$Marion"
+        },
+        {
+          "id": "016028cb-9d77-4725-8475-f169950cc2ec",
+          "dataType": "@TennesseeLSC",
+          "name": "McMinn",
+          "value": "$McMinn"
+        },
+        {
+          "id": "37f8066b-cd33-4604-8194-e07296967f73",
+          "dataType": "@TennesseeLSC",
+          "name": "Loudon",
+          "value": "$Loudon"
+        },
+        {
+          "id": "c50155b5-4337-47c1-978a-0cfbbe57c3e3",
+          "dataType": "@TennesseeLSC",
+          "name": "Knox",
+          "value": "$Knox"
+        },
+        {
+          "id": "98eef842-98ce-43bd-a418-075f77ed0029",
+          "dataType": "@TennesseeLSC",
+          "name": "Johnson",
+          "value": "$Johnson"
+        },
+        {
+          "id": "4d725df1-a7e9-4196-b20a-53cec82a2eb5",
+          "dataType": "@TennesseeLSC",
+          "name": "Jefferson",
+          "value": "$Jefferson"
+        },
+        {
+          "id": "1fee6453-b552-4c1a-a279-f2369a11059c",
+          "dataType": "@TennesseeLSC",
+          "name": "Hawkins",
+          "value": "$Hawkins"
+        },
+        {
+          "id": "8965aea6-fa3c-4eef-83b1-e671bb50ed76",
+          "dataType": "@TennesseeLSC",
+          "name": "Hancock",
+          "value": "$Hancock"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You are in the region known as TN-9.  This is important to know in order to get legal aid."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527109682,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "DefaultWelcomeIntentTennesseeTN9"
+    }
+  ]
+}

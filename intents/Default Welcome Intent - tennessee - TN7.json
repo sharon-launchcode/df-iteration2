@@ -1,0 +1,178 @@
+{
+  "id": "76e687dd-c892-472f-8af0-b6a812e1257f",
+  "name": "Default Welcome Intent - tennessee - TN7",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-tennessee-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7eb29da4-8426-438d-82eb-10cc7a734118",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "TN-7",
+          "value": "$TN-7",
+          "isList": false
+        },
+        {
+          "id": "dae191b4-e8bf-4bb2-91bc-8856e2902555",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Carroll",
+          "value": "$Carroll",
+          "isList": false
+        },
+        {
+          "id": "59dee79b-4334-4ff3-b299-9811e5395982",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Chester",
+          "value": "$Chester",
+          "isList": false
+        },
+        {
+          "id": "6e6a1578-577f-4518-875f-85aa131a1e12",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Crockett",
+          "value": "$Crockett",
+          "isList": false
+        },
+        {
+          "id": "ae38da71-be38-4555-b136-9a03f0bc67d9",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Decatur",
+          "value": "$Decatur",
+          "isList": false
+        },
+        {
+          "id": "c6fa78d7-df57-419e-9104-52a5ea2c388d",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Dyer",
+          "value": "$Dyer",
+          "isList": false
+        },
+        {
+          "id": "a80c9fb0-45d0-45dc-9915-152b5fcbb934",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Gibson",
+          "value": "$Gibson",
+          "isList": false
+        },
+        {
+          "id": "ecee7c70-abe0-4e1b-8d28-9a26a5e9a7a3",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Hardeman",
+          "value": "$Hardeman",
+          "isList": false
+        },
+        {
+          "id": "1c46bd86-c626-4a5b-8573-0c129ada3ade",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Hardin",
+          "value": "$Hardin",
+          "isList": false
+        },
+        {
+          "id": "0c6cb09c-de73-4aa7-9497-159159487d63",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Haywood",
+          "value": "$Haywood",
+          "isList": false
+        },
+        {
+          "id": "eeb66971-62a2-4cbb-a103-f28c56222c55",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Henderson",
+          "value": "$Henderson",
+          "isList": false
+        },
+        {
+          "id": "26b227ac-ae2b-43e4-bbe3-17977a25b80d",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Henry",
+          "value": "$Henry",
+          "isList": false
+        },
+        {
+          "id": "63f8bbfa-cd79-449d-805a-4501a4f61e46",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Lake",
+          "value": "$Lake",
+          "isList": false
+        },
+        {
+          "id": "b4405c09-5651-443e-864e-bb0f4007f42a",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "McNairy",
+          "value": "$McNairy",
+          "isList": false
+        },
+        {
+          "id": "dc4b7d81-7036-407d-a22d-802ce1bb03d9",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Weasley",
+          "value": "$Weasley",
+          "isList": false
+        },
+        {
+          "id": "546b239d-be11-45c6-9b02-5a45f56bceaa",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Obion",
+          "value": "$Obion",
+          "isList": false
+        },
+        {
+          "id": "0607a6f0-bf77-4308-8e47-727cd65006c2",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Madison",
+          "value": "$Madison",
+          "isList": false
+        },
+        {
+          "id": "676b3349-76fd-4d93-89e8-06e8b54b7154",
+          "required": false,
+          "dataType": "@TennesseeLSC",
+          "name": "Benton",
+          "value": "$Benton",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, you are in the Tennessee district known as TN-7.  This is important to know for getting legal help."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527093929,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "DefaultWelcomeIntentTennesseeTN7"
+    }
+  ]
+}

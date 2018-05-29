@@ -1,0 +1,66 @@
+[
+  {
+    "id": "7905514e-891e-4502-9a4e-4f6543b5dbf2",
+    "data": [
+      {
+        "text": "tenese",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527112163
+  },
+  {
+    "id": "9f944941-829c-48af-becd-b5065bd5700c",
+    "data": [
+      {
+        "text": "tennese",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527112163
+  },
+  {
+    "id": "f7beba7d-c82d-4a06-b08d-7a9da91085ad",
+    "data": [
+      {
+        "text": "tenessee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527112163
+  },
+  {
+    "id": "bfd5d085-1ede-4e9c-8fd7-63d8632d15f2",
+    "data": [
+      {
+        "text": "tennesee",
+        "alias": "tennessee",
+        "meta": "@Tennessee",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527112163
+  },
+  {
+    "id": "781f3cad-99a4-4d35-a244-3cd717cbfc6e",
+    "data": [
+      {
+        "text": "Tennessee",
+        "alias": "Tennesse",
+        "meta": "@Tennessee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527112163
+  }
+]

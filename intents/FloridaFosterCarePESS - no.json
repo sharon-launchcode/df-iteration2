@@ -1,0 +1,39 @@
+{
+  "id": "9b8c6c18-b85a-4145-a4e5-6776d3173078",
+  "parentId": "272ecdf1-ca6a-4710-a3ec-c39b8d6fb791",
+  "rootParentId": "272ecdf1-ca6a-4710-a3ec-c39b8d6fb791",
+  "name": "FloridaFosterCarePESS - no",
+  "auto": true,
+  "contexts": [
+    "FloridaFosterCarePESS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FloridaFosterCarePESS.FloridaFosterCarePESS-no",
+      "affectedContexts": [
+        {
+          "name": "FloridaFosterCarePESS-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That\u0027s okay -- you still might qualify. Let\u0027s dig a little deeper!  Were you in licensed care at age 18, and had been in that care for at least 6 months? (If you don\u0027t know about licensing, don\u0027t worry...we\u0027re going to do some follow-up work with you! )!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527092329,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "cf2c2a85-5276-4e86-9bcd-7ac5dd07ebf5",
+    "data": [
+      {
+        "text": "Grundy",
+        "alias": "Grundy",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "ede35e0c-3331-4d89-b88a-0db946eb9b5d",
+    "data": [
+      {
+        "text": "Giles",
+        "alias": "Giles",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "32f96c22-80f9-4fea-93f5-2c552186ad83",
+    "data": [
+      {
+        "text": "Franklin",
+        "alias": "Franklin",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "24674b7e-e41a-491a-b552-890cbcd70108",
+    "data": [
+      {
+        "text": "Fentress",
+        "alias": "Fentress",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "96432385-51be-4c60-8ecd-394c4b92bb67",
+    "data": [
+      {
+        "text": "Dickson",
+        "alias": "Dickson",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "94909f05-d418-40be-b581-ee1daee9ffa4",
+    "data": [
+      {
+        "text": "DeKalb",
+        "alias": "DeKalb",
+        "meta": "@TennesseeLSC",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "7c44671e-57eb-42ea-b291-526b59b6e5ac",
+    "data": [
+      {
+        "text": "Davidson",
+        "alias": "Davidson",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "45b78a3f-ff3f-481e-8d9e-2ffd68111172",
+    "data": [
+      {
+        "text": "Cumberland",
+        "alias": "Cumberland",
+        "meta": "@TennesseeLSC",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "3e057737-187e-46ba-828a-bf99bd1e5571",
+    "data": [
+      {
+        "text": "Coffee",
+        "alias": "Coffee",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "9ac0e05d-5267-4aff-a892-ab8ca9ea18d9",
+    "data": [
+      {
+        "text": "Clay",
+        "alias": "Clay",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "d3676570-66c7-4f08-b0f8-0ed62ce7afb0",
+    "data": [
+      {
+        "text": "Claiborne",
+        "alias": "Claiborne",
+        "meta": "@TennesseeLSC",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "cd8655c2-8a64-4bc5-b506-8a71c138d8fc",
+    "data": [
+      {
+        "text": "Cheatham",
+        "alias": "Cheatham",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "242f3a78-97d9-40ee-bfdf-bf6f1d2b3016",
+    "data": [
+      {
+        "text": "Cannon",
+        "alias": "Cannon",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "dc7ca4a3-7d60-4409-bf2a-2868fbad4a31",
+    "data": [
+      {
+        "text": "Campbell",
+        "alias": "Campbell",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "8cbbc5b5-6014-4241-be2f-68dfdaac1f27",
+    "data": [
+      {
+        "text": "Bedford",
+        "alias": "Bedford",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  },
+  {
+    "id": "7d1477eb-2a0b-4c0b-8fd4-a0df7f27a487",
+    "data": [
+      {
+        "text": "Anderson",
+        "alias": "Anderson",
+        "meta": "@TennesseeLSC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527114501
+  }
+]

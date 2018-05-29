@@ -1,0 +1,130 @@
+{
+  "id": "cfcd2507-ff9b-4c06-b155-5eb2734fdb52",
+  "name": "Default Welcome Intent - tennessee - TN10a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "35eb402f-7654-4ffe-9497-f3fc4e812cc5",
+          "dataType": "@TennesseeLSC",
+          "name": "Anderson",
+          "value": "$Anderson",
+          "isList": false
+        },
+        {
+          "id": "7ad63bbb-f90b-4dc6-b0a0-af8e1c8d9bba",
+          "dataType": "@TennesseeLSC",
+          "name": "Grundy",
+          "value": "$Grundy"
+        },
+        {
+          "id": "6255d00e-4017-4eb7-9bc3-1ab03551cae4",
+          "dataType": "@TennesseeLSC",
+          "name": "Giles",
+          "value": "$Giles"
+        },
+        {
+          "id": "96d3952f-b317-469d-9502-fca82f1766f6",
+          "dataType": "@TennesseeLSC",
+          "name": "Franklin",
+          "value": "$Franklin"
+        },
+        {
+          "id": "d0f4d174-062c-4ad7-8ff2-bf32dacb9aaf",
+          "dataType": "@TennesseeLSC",
+          "name": "Fentress",
+          "value": "$Fentress"
+        },
+        {
+          "id": "32d2ebe6-171f-493f-8a6f-da4a296f3adf",
+          "dataType": "@TennesseeLSC",
+          "name": "Dickson",
+          "value": "$Dickson"
+        },
+        {
+          "id": "0685df53-6209-404f-ba42-e943cd6588c0",
+          "dataType": "@TennesseeLSC",
+          "name": "DeKalb",
+          "value": "$DeKalb"
+        },
+        {
+          "id": "57d208a8-24f6-4b11-943c-28cec91944da",
+          "dataType": "@TennesseeLSC",
+          "name": "Davidson",
+          "value": "$Davidson"
+        },
+        {
+          "id": "fe956e90-dbda-452b-a0c8-931e35ad49e2",
+          "dataType": "@TennesseeLSC",
+          "name": "Cumberland",
+          "value": "$Cumberland"
+        },
+        {
+          "id": "91d62884-874b-479a-a880-deb168ea8a0a",
+          "dataType": "@TennesseeLSC",
+          "name": "Coffee",
+          "value": "$Coffee"
+        },
+        {
+          "id": "52bf5069-5d0e-47ef-a8c8-cbf5d56e4441",
+          "dataType": "@TennesseeLSC",
+          "name": "Clay",
+          "value": "$Clay"
+        },
+        {
+          "id": "9ece6d18-ee87-4d91-b5cd-a3372ce69d26",
+          "dataType": "@TennesseeLSC",
+          "name": "Claiborne",
+          "value": "$Claiborne"
+        },
+        {
+          "id": "676a900a-9f99-4c89-a97b-28817c799e55",
+          "dataType": "@TennesseeLSC",
+          "name": "Cheatham",
+          "value": "$Cheatham"
+        },
+        {
+          "id": "25cb4391-7471-4eb3-bd48-02447aa41087",
+          "dataType": "@TennesseeLSC",
+          "name": "Cannon",
+          "value": "$Cannon"
+        },
+        {
+          "id": "bf008440-5f35-461b-9d0b-d4c9837fafbf",
+          "dataType": "@TennesseeLSC",
+          "name": "Campbell",
+          "value": "$Campbell"
+        },
+        {
+          "id": "d9981536-4680-4a9b-b53c-cc0863bef773",
+          "dataType": "@TennesseeLSC",
+          "name": "Bedford",
+          "value": "$Bedford"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You are in the Tennessee jurisdiction area known as TN-10.  This is important to know when you get legal help."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527114501,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "DefaultWelcomeIntentTennesseeTN10a"
+    }
+  ]
+}

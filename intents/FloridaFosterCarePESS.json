@@ -1,0 +1,64 @@
+{
+  "id": "272ecdf1-ca6a-4710-a3ec-c39b8d6fb791",
+  "name": "FloridaFosterCarePESS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-florida-custom",
+      "affectedContexts": [
+        {
+          "name": "FloridaFosterCarePESS-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "863e34b9-b31c-4582-be0b-478cf8766b87",
+          "required": false,
+          "dataType": "@Florida",
+          "name": "Florida",
+          "value": "$Florida",
+          "isList": false
+        },
+        {
+          "id": "802601f6-bd32-4717-af5b-c66ba87e3f6a",
+          "required": false,
+          "dataType": "@FloridaFosterCare",
+          "name": "FloridaFosterCare",
+          "value": "$FloridaFosterCare",
+          "isList": false
+        },
+        {
+          "id": "0cb36802-bf66-4d41-adab-f195e4b9be85",
+          "required": false,
+          "dataType": "@FloridaFosterCare",
+          "name": "PESS",
+          "value": "$PESS",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, we can help you with PESS foster care in Florida.  Let\u0027s get some more information.  Were you adopted, or in guardianship, after age 16?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527087295,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "FloridaFosterCarePESS"
+    }
+  ]
+}
